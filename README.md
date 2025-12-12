@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/d4323d93-3f01-45f6-88bd-b4137e664a07" width="120" style="border-radius:50%" />
+<img src="assets/alice.png" width="120" style="border-radius:50%" />
 
 
 # Ouadah Karima

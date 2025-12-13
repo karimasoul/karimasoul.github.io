@@ -1,32 +1,11 @@
 <div align="center">
 
-<img src="assets/alice.png" width="120" style="border-radius:50%" />
-
+<img src="assets/avatar.png" width="120" />
 
 # Ouadah Karima
 
-🎮 **Video Game Engineering Student (GAMAGORA)**  
-💻 Master 2 in Networks & Information Systems  
+🎮 Video Game Engineering Student (GAMAGORA)
 
----
-
-### 🌐 Links
-
-[LinkedIn](www.linkedin.com/in/karima-ouadah-28045a281) •
-[GitHub](https://github.com/karimasoul) •
-[Itch.io](https://karimasoul.itch.io)
-
----
-
-### 📌 Navigation
-
-[Home](https://karima.github.io/) •
-[Projects](https://karimasoul.github.io/projects.html) •
-[Contacts](https://karimasoul.github.io/contacts.html)
-
----
-
-✨ Welcome to my portfolio!  
-Here you can find my projects, skills and ways to contact me.
+🌐 [Portfolio Website](https://tonpseudo.github.io)
 
 </div>

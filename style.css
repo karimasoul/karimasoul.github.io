@@ -97,3 +97,16 @@ footer a:hover {
   text-decoration: none;
   color: inherit;
 }
+
+.cv-button {
+  padding: 12px 20px;
+  background-color: #44916F;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.cv-button:hover {
+  background-color: #367a5d;
+}
